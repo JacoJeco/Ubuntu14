@@ -1,8 +1,8 @@
-# Liferay en Ubuntu 14.04
+# Java en Ubuntu 14.04
 
-Como instalar la plataforma JAVA JDK 8 en Ubuntu 14.04.
+Como instalar la plataforma Java JDK 8 en Ubuntu 14.04.
 
-1. Descargar la plataforma JAVA JDK 8 en su última versión desde el sitio oficial de Oracle [aquí](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html). En mi caso instalaré la versión jdk-8u241-linux-x64.tar.gz.
+1. Descargar la plataforma Java JDK 8 en su última versión desde el sitio oficial de Oracle [aquí](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html). En mi caso instalaré la versión jdk-8u241-linux-x64.tar.gz.
 2. Crear un nueva carpeta en el directorio **/usr/lib/jvm** y extraer el archivo mediante el comando **tar**.
 
     ```sh
